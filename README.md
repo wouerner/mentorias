@@ -30,3 +30,8 @@ Bom para: profissionais que precisam de ajuda, mas não têm recursos financeiro
 ⏳ Tempo: até 4 minutos  
 
 **Bom para**: profissionais que desejam obter uma avaliação simples de como um recrutador avalia rapidamente um perfil do LinkedIn.
+
+
+## Duvidas?
+
+Falar com Wouerner no Linkedin: https://www.linkedin.com/in/wouerner/
