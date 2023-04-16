@@ -41,7 +41,7 @@ Agende aqui: https://calendly.com/wouerner/portfolio
 
 Agende aqui: https://calendly.com/wouerner/linkedin 
 
-## Duvidas?
+## Dúvidas?
 
 Falar com Wouerner no Linkedin: https://www.linkedin.com/in/wouerner/
 
