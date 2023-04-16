@@ -31,7 +31,14 @@ Bom para: profissionais que precisam de ajuda, mas não têm recursos financeiro
 
 **Bom para**: profissionais que desejam obter uma avaliação simples de como um recrutador avalia rapidamente um perfil do LinkedIn.
 
-
 ## Duvidas?
 
 Falar com Wouerner no Linkedin: https://www.linkedin.com/in/wouerner/
+
+## Como pagar?
+PIX: wouerner@soujunior.tech ou PicPay @wouerner
+OBS: Me avise pelo linkedin com comprovante por favor.
+
+
+## Como agendar?
+
