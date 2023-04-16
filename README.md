@@ -48,8 +48,10 @@ Falar com Wouerner no Linkedin: https://www.linkedin.com/in/wouerner/
 ## Como pagar?
 Primeiro agenda em um dos links no calendly e depois pague! Você pode pagar na hora também.
 PIX: wouerner@soujunior.tech ou PicPay @wouerner   
-OBS: Me avise pelo linkedin com comprovante por favor.   
-OBS2: se você agenda e não aparecer e não pagar, vai ser bloqueado e gente nunca mais vai ser ver na vida.☠  
+
+     OBS: Me avise pelo linkedin com comprovante por favor.  
+
+     OBS2: se você agenda e não aparecer e não pagar, vai ser bloqueado e gente nunca mais vai ser ver na vida.☠  
 
 ## Como agendar?
 No fim de cada proposta tem um link para agendamento, cada tipo tem um link diferente!
