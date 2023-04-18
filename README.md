@@ -81,3 +81,7 @@ No fim de cada proposta tem um link para agendamento, cada tipo tem um link dife
 Primeiro, meu filho Gael vai chegar em Agosto, então vou usar essa grana para comprar fraldas, basicamente é isso.   
 
 Eu não consigo prestar esse serviço de graça pois se abrir isso gratuitamente eu loto minha agenda facilmente 2 semanas, então vamos usar o PIX como filtro, até porque já levei muito furo de fazendo gratuito. Então nunca mais faço nada gratuito sem uma contra partida.   
+
+
+## Os preços podem mudar?
+Sim, essa é a fase beta, pode tanto subir como cair, mas o gratuito vai sempre permanecer. 
