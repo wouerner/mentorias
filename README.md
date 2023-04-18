@@ -26,7 +26,7 @@ Bom para: profissionais que precisam de ajuda, mas não têm recursos financeiro
 Agende aqui: https://calendly.com/wouerner/juros-compostos
 
 ## 4. Portfólio
-💰 Valor: R$ 15,00 (8 pães na padaria)    
+💰 Valor: R$ 15,00   
 ⏳ Tempo: até 10 minutos    
 
 **Bom para**: profissionais que não têm certeza se seu portfólio é aceitável ou não.
@@ -34,7 +34,7 @@ Agende aqui: https://calendly.com/wouerner/juros-compostos
 Agende aqui: https://calendly.com/wouerner/portfolio
 
 ## 5. LinkedIn
-💰 Valor: R$ 10,00 (balinha ???)    
+💰 Valor: R$ 10,00  
 ⏳ Tempo: até 4 minutos    
 
 **Bom para**: profissionais que desejam obter uma avaliação simples de como um recrutador avalia rapidamente um perfil do LinkedIn.
