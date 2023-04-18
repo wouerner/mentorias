@@ -2,6 +2,9 @@
 Em resumo, as mentorias são uma maneira eficaz para os profissionais de tecnologia aprimorarem suas habilidades e competências, bem como crescerem em suas carreiras.
 Independentemente do tipo de mentoria, ela pode fornecer uma orientação valiosa e um feedback crítico para o mentorado, ajudando-o a alcançar seus objetivos profissionais e desenvolver seu potencial.
 
+## 0. Feedbacks
+Se estiver afim você pode ler alguns feedbacks que recebi de mentorias: https://www.linkedin.com/services/page/994426311b86852264
+
 ## 1. Mentoria Focada
 💰 Valor: R$ 55,00 (valor de um 🍔)    
 ⏳ Tempo: 45-60 minutos    
