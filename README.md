@@ -62,26 +62,26 @@ Agende aqui: https://calendly.com/wouerner/linkedin
 Eu vou te enviar um video com avaliação. Por isso o horario que marcar, será o momento que farei o video. 
 Você pode entrar na chamada, mas só vou interagir com vc quando terminar o video.
 
-## Dúvidas?
+## 6. Dúvidas?
 
 Falar com Wouerner no Linkedin: https://www.linkedin.com/in/wouerner/
 
-## Como pagar?
+## 7. Como pagar?
 Primeiro agenda em um dos links no calendly e depois pague! Você pode pagar na hora também.
 PIX: wouerner@soujunior.tech ou PicPay @wouerner   
 
 **OBS**: Me avise pelo linkedin com comprovante por favor.  
 **OBS2**: se você agenda e não aparecer e não pagar, vai ser bloqueado e gente nunca mais vai ser ver na vida.☠  
 
-## Como agendar?
+## 8. Como agendar?
+
 No fim de cada proposta tem um link para agendamento, cada tipo tem um link diferente!
 
-## Motivo?
+## 9. Motivo?
 
 Primeiro, meu filho Gael vai chegar em Agosto, então vou usar essa grana para comprar fraldas, basicamente é isso.   
 
 Eu não consigo prestar esse serviço de graça pois se abrir isso gratuitamente eu loto minha agenda facilmente 2 semanas, então vamos usar o PIX como filtro, até porque já levei muito furo de fazendo gratuito. Então nunca mais faço nada gratuito sem uma contra partida.   
 
-
-## Os preços podem mudar?
+## 10. Os preços podem mudar?
 Sim, essa é a fase beta, pode tanto subir como cair, mas o gratuito vai sempre permanecer. 
