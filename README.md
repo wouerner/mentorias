@@ -6,7 +6,7 @@ Independentemente do tipo de mentoria, ela pode fornecer uma orientação valios
 Se estiver afim você pode ler alguns feedbacks que recebi de mentorias: https://www.linkedin.com/services/page/994426311b86852264
 
 ## 1. Mentoria Focada
-💰 Valor: R$ 55,00 (valor de um 🍔)    
+💰 Valor: R$ 60,00 (valor de um 🍔)    
 ⏳ Tempo: 45-60 minutos    
 
 **Bom para**: profissionais que têm um plano e precisam de validação se estão caminhando para o caminho correto em suas carreiras. Nessa sessão, podemos traçar um plano para sua carreira.
@@ -16,30 +16,8 @@ Agende aqui: https://calendly.com/wouerner/mentoria-focada
 **Como funciona?**  
 Quando marcar vamos entrar na chamada e vamos trocar ideia até horário maximo.
 
-## 2. Só o osso
-💰 Valor: R$ 35,00 (valor de um 🌭)    
-⏳ Tempo: até 30 minutos    
-**Bom para**: profissionais que têm uma dúvida crucial e não encontraram nenhuma resposta satisfatória até o momento.
-
-Agende aqui: https://calendly.com/wouerner/so-o-osso
-
-**Como funciona?**  
-Quando marcar vamos entrar na chamada e vamos trocar ideia até horário maximo.
-
-## 3. Juros compostos  
-💰 Valor: Gratuito    
-⏳ Tempo: 1 hora    
-**Regra**: Autorização para compartilhar o conteúdo da sessão nas redes sociais do SouJunior.
-
-**Bom para**: profissionais que precisam de ajuda, mas não têm recursos financeiros no momento.
-
-Agende aqui: Me chame no linkedin, falando que fazer o projeto "Juros compostos!", eu vou agenda um horario bom para mim e você se compromete a aparecer, ok?
-
-**Como funciona?**  
-Vamos fazer uma live bem legal com as suas perguntas interação com o chat.
-
 ## 4. Portfólio
-💰 Valor: R$ 15,00   
+💰 Valor: R$ 20,00   
 ⏳ Tempo: até 10 minutos    
 
 **Bom para**: profissionais que não têm certeza se seu portfólio é aceitável ou não.
@@ -51,7 +29,7 @@ Eu vou te enviar um video com avaliação. Por isso o horario que marcar, será 
 Você pode entrar na chamada, mas só vou interagir com vc quando terminar o video.
 
 ## 5. LinkedIn
-💰 Valor: R$ 10,00  
+💰 Valor: R$ 20,00  
 ⏳ Tempo: até 4 minutos    
 
 **Bom para**: profissionais que desejam obter uma avaliação simples de como um recrutador avalia rapidamente um perfil do LinkedIn.
