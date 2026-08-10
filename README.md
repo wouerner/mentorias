@@ -1,5 +1,7 @@
 # 🚀 Mentorias de Carreira para Engenheiros de Software
-
+<div align="center">
+  <img src="https://github.com/wouerner/mentorias/blob/main/cyber2.png?raw=true" alt="Mentoria Cyberpunk" width="100%">
+</div>
 Mentorias são uma maneira eficaz para engenheiros de software e pessoas desenvolvedoras aprimorarem suas habilidades técnicas, validarem estratégias e acelerarem o crescimento na carreira. Independentemente do seu nível, uma orientação focada e feedbacks críticos podem encurtar o seu caminho até seus objetivos profissionais.
 
 ## 👨‍💻 Sobre o Mentor
