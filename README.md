@@ -1,62 +1,48 @@
-# Mentorias
-Mentorias são uma maneira eficaz para os profissionais de tecnologia aprimorarem suas habilidades e competências, bem como crescerem em suas carreiras.
-Independentemente do tipo de mentoria, ela pode fornecer uma orientação valiosa e um feedback crítico para o mentorado, ajudando-o a alcançar seus objetivos profissionais.
+# 🚀 Mentorias de Carreira para Engenheiros de Software
 
-## 0. Feedbacks
-Se estiver afim você pode ler alguns feedbacks que recebi de mentorias: https://www.linkedin.com/services/page/994426311b86852264
+Mentorias são uma maneira eficaz para engenheiros de software e pessoas desenvolvedoras aprimorarem suas habilidades técnicas, validarem estratégias e acelerarem o crescimento na carreira. Independentemente do seu nível, uma orientação focada e feedbacks críticos podem encurtar o seu caminho até seus objetivos profissionais.
 
-## 1. Mentoria Focada
-💰 Valor: R$ 60,00 (valor de um 🍔)    
-⏳ Tempo: 45-60 minutos    
+## 👨‍💻 Sobre o Mentor
+Sou **Wouerner Brandão**, atuo como Engenheiro de Software Sênior e Arquiteto. Além da minha vivência técnica no desenvolvimento e arquitetura de software, sou fundador e líder da organização open-source **SouJunior**, onde ajudo novos talentos a se desenvolverem e ingressarem no mercado de tecnologia.
 
-**Bom para**: profissionais que têm um plano e precisam de validação se estão caminhando para o caminho correto em suas carreiras. Nessa sessão, podemos traçar um plano para sua carreira.
+⭐ **Feedbacks:** [Veja o que dizem as pessoas que já passaram pelas minhas mentorias no LinkedIn](https://www.linkedin.com/services/page/994426311b86852264).
 
-Agende aqui: (https://meet.brevo.com/wouerner-brandao/mentoria) 
+---
 
-**Como funciona?**  
-Quando marcar vamos entrar na chamada e vamos trocar ideia até horário maximo.
+## 📌 Como funciona a Mentoria?
 
-## 2. Portfólio
-💰 Valor: R$ 20,00   
-⏳ Tempo: até 10 minutos    
+Atualmente, ofereço um formato único e aprofundado, dividido em duas etapas para garantir que você saia com um direcionamento prático e aplicável para sua jornada como engenheiro de software.
 
-**Bom para**: profissionais que não têm certeza se seu portfólio é aceitável ou não.
+### Mentoria Estratégica (2 Encontros)
+Um processo desenhado para diagnosticar seu momento atual e traçar a rota exata para o seu próximo passo profissional, seja para avançar de júnior para pleno, focar em arquitetura de software, ou melhorar seu posicionamento técnico no mercado.
 
-Agende aqui: (https://meet.brevo.com/wouerner-brandao/mentoria) 
+*   💰 **Valor:** R$ 70,00 (Cobre os dois encontros)
+*   🎯 **Bom para:** Profissionais de desenvolvimento que precisam de uma avaliação sincera sobre seu perfil (técnico e comportamental) e desejam um plano de ação claro, validado e documentado para seguir na carreira de engenharia.
+*   ⚙️ **Estrutura:**
+    *   **Encontro 1 (Análise de Perfil):** Faremos uma chamada para eu entender o seu contexto, analisar profundamente o seu perfil e identificar seus objetivos, pontos fortes e gargalos técnicos ou de carreira.
+    *   **Encontro 2 (Plano de Ação):** Neste segundo momento, te entregarei um documento estruturado com um plano passo a passo personalizado para você seguir, além de tirarmos as últimas dúvidas.
+*   📅 **[Agende seu Primeiro Encontro Aqui](https://calendar.app.google/C4c5835BXy1UYYpWA)**
 
-**Como funciona?**  
-Eu vou te enviar um video com avaliação. Por isso o horario que marcar, será o momento que farei o video. 
-Você pode entrar na chamada, mas só vou interagir com vc quando terminar o video.
+---
 
-## 3. LinkedIn
-💰 Valor: R$ 20,00  
-⏳ Tempo: até 4 minutos    
+## 💳 Como Agendar e Pagar?
 
-**Bom para**: profissionais que desejam obter uma avaliação simples de como um recrutador avalia rapidamente um perfil do LinkedIn.
+**Fluxo de agendamento:**
+1. Escolha o horário para o nosso 1º encontro e agende pelo [Google Calendar](https://calendar.app.google/C4c5835BXy1UYYpWA). *(O agendamento do 2º encontro será feito diretamente comigo após a primeira sessão)*.
+2. Realize o pagamento no valor de R$ 70,00.
+3. **Importante:** Me envie o comprovante pelo LinkedIn para confirmar sua vaga e iniciarmos o processo!
 
-Agende aqui: (https://meet.brevo.com/wouerner-brandao/mentoria) 
+🔑 **Chave PIX (CNPJ):** `32.944.459/0001-30`
 
-**Como funciona?**  
-Eu vou te enviar um video com avaliação. Por isso o horario que marcar, será o momento que farei o video. 
-Você pode entrar na chamada, mas só vou interagir com vc quando terminar o video.
+---
 
-## 4. Dúvidas?
+## ❓ Perguntas Frequentes
 
-Falar com Wouerner no Linkedin: wouerner@soujunior.tech
+**Por que a mentoria não é gratuita?**
+A cobrança é um filtro de comprometimento. Abrir a agenda gratuitamente gera um volume insustentável de marcações com um alto índice de "no-shows" (ausências). O valor garante que tanto o mentor quanto o mentorado estejam 100% dedicados a este processo de evolução, otimizando o tempo de ambos.
 
-## 5. Como pagar?
-Primeiro agenda em um dos links no calendly e depois pague! Você pode pagar na hora também.
-PIX: be2ad559-eec8-4e36-aee0-866834ab5e85  
+**Os preços podem mudar?**
+Sim. Este projeto está em fase beta e os valores podem ser reajustados conforme a evolução do formato.
 
-**OBS**: Me avise pelo linkedin com comprovante por favor.  
-
-## 6. Como agendar?
-
-Link: (https://meet.brevo.com/wouerner-brandao/mentoria) 
-
-## 7. Motivo?
-
-Eu não consigo prestar esse serviço de graça pois se abrir isso gratuitamente eu loto minha agenda facilmente 2 semanas, então vamos usar o PIX como filtro, até porque já levei muito furo de fazendo gratuito. Então nunca mais faço nada gratuito sem uma contra partida.   
-
-## 8. Os preços podem mudar?
-Sim, essa é a fase beta, pode tanto subir como cair. 
+**Ficou com alguma dúvida?**
+*   🔗 [Fale comigo no LinkedIn](https://www.linkedin.com/in/wouerner/)
